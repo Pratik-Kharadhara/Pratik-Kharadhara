@@ -16,9 +16,9 @@ I'm always open to collaborating on projects or just having a chat about tech. F
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratik) </br>
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/pratik) </br>
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)]([https://twitter.com/pratik](https://x.com/kharadahara)) </br>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/pratik-kharadhara-713aa52a0/)) </br>
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Pratik-Kharadhara) </br>
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)]((https://x.com/kharadahara)) </br>
 
 
 # 💻 Tech Stack:
